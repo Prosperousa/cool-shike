@@ -1,0 +1,21 @@
+/*
+* @Author: Dell
+* @Date:   2019-05-26 13:09:04
+* @Last Modified by:   Dell
+* @Last Modified time: 2019-06-09 22:32:31
+*/
+/* 普通PC端：中等屏幕 col-md- >992px */
+@media screen and (min-width: 992px){
+	
+
+
+}
+
+
+/* 大屏幕：大屏幕 col-lg- >1200px */
+@media screen and (min-width: 1200px){
+	.gouwuche{
+		margin: 50px 0 50px 50px;
+	}
+	
+}
